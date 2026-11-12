@@ -119,8 +119,6 @@ lookahead-optimizer-cifar10/
 
 ## Como reproduzir
 
-O jeito mais simples é abrir o [notebook no Kaggle](LINK_DO_NOTEBOOK_NO_KAGGLE) e executar com GPU ativada.
-
 Para rodar localmente:
 
 ```bash
@@ -154,5 +152,5 @@ A lista completa está no [artigo](artigo/Estudo_do_Otimizador_Lookahead.pdf).
 
 ## Autores
 
-- **Marcelo Albuquerque Heluy**: [GitHub](https://github.com/SEU_USUARIO) · [LinkedIn](LINK_LINKEDIN)
-- **Samuel Magalhães Pereira**: [GitHub](LINK_GITHUB_SAMUEL)
+- **Marcelo Albuquerque Heluy**: [GitHub](https://github.com/maheluy) · [LinkedIn](https://www.linkedin.com/in/marcelo-albuquerque-heluy-56b594333/)
+- **Samuel Magalhães Pereira**: [GitHub](Lhttps://github.com/samuelmpdev)
