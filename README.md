@@ -153,4 +153,4 @@ A lista completa está no [artigo](artigo/Estudo_do_Otimizador_Lookahead.pdf).
 ## Autores
 
 - **Marcelo Albuquerque Heluy**: [GitHub](https://github.com/maheluy) · [LinkedIn](https://www.linkedin.com/in/marcelo-albuquerque-heluy-56b594333/)
-- **Samuel Magalhães Pereira**: [GitHub](Lhttps://github.com/samuelmpdev)
+- **Samuel Magalhães Pereira**: [GitHub](https://github.com/samuelmpdev)
