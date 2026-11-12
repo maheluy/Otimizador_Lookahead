@@ -7,8 +7,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?logo=kaggle&logoColor=white)](LINK_DO_NOTEBOOK_NO_KAGGLE)
 [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/SEU_USUARIO/lookahead-optimizer-cifar10/blob/main/notebooks/lookahead_resnet18_cifar10.ipynb)
 
-Estudo desenvolvido como requisito para a disciplina de Introdução ao Aprendizado Profundo, entre os meses de março a julho de 2026.
-
 Estudo empírico do otimizador **Lookahead** ([Zhang et al., 2019](https://arxiv.org/abs/1907.08610)) aplicado sobre quatro otimizadores clássicos (**SGD com momentum, Adam, Adagrad e RMSProp**) no *fine-tuning* de uma **ResNet-18** pré-treinada no ImageNet, usando o dataset **CIFAR-10**.
 
 A pergunta central: o Lookahead traz ganhos para SGD e Adam, como mostra o artigo original. **Ele traz os mesmos ganhos para otimizadores com falhas estruturais conhecidas**, como o Adagrad (decaimento prematuro da taxa de aprendizado) e o RMSProp (sem correção de viés)?
